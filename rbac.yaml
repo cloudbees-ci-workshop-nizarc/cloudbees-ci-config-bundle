@@ -34,6 +34,7 @@ groups:
     - admin
     - team-admin
     - nizarchoudhury-admin
+    - nizarchoudhury
   roles:
   - name: administrator
     grantedAt: current
