@@ -33,7 +33,7 @@ groups:
     users:
     - admin
     - team-admin
-    - nizarchoudhury
+    - nizarchoudhury-admin
   roles:
   - name: administrator
     grantedAt: current
